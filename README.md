@@ -26,8 +26,8 @@
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Dhanush-Proj&theme=gruvbox" />
-  <img width="48%" src="https://readme-stats-fabio-vicente.vercel.app/api?username=Dhanush-Proj&count_private=true&show_icons=true&theme=gruvbox" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Dhanush-Projectile&theme=gruvbox" />
+  <img width="48%" src="https://readme-stats-fabio-vicente.vercel.app/api?username=Dhanush-Projectile&count_private=true&show_icons=true&theme=gruvbox" />
 </p>
 
 
